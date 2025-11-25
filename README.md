@@ -9,6 +9,17 @@ This project demonstrates basic edge-detection techniques and circle detection u
 
 ---
 
+## Table of Contents
+- [Requirements](#requirements)
+- [Usage](#usage)
+- [Prosessing Pipeline](#prosessing-pipeline)
+- [Output](#output)
+- [Results](#results)
+- [Notes](#notes)
+- [License](#license)
+
+---
+
 ## Requirements
 Ensure the following Python packages are installed:
 - numpy
@@ -64,6 +75,11 @@ Image saving functionality is present but commented out. Uncomment to export res
 ## Report
 A full project report with results and analysis is available here (in Greek, but you can see different output for different parameters):\
 [Open Project Report (PDF)](report.pdf)
+
+---
+
+## License
+
 
 ---
 
