@@ -62,6 +62,11 @@ Image saving functionality is present but commented out. Uncomment to export res
 ---
 
 ## Report
-A full project report with results and analysis is available here (in Greek, but you can see different output for different parameters):
+A full project report with results and analysis is available here (in Greek, but you can see different output for different parameters):\
 [Open Project Report (PDF)](report.pdf)
 
+---
+
+## Notes
+- This implementation assumes working custom modules for Sobel, LoG, and Hough circle detection.
+- Image resizing accelerates the computation without significantly affecting detection quality.
