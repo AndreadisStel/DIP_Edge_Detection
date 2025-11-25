@@ -78,11 +78,12 @@ A full project report with results and analysis is available here (in Greek, but
 
 ---
 
-## License
-
-
----
-
 ## Notes
 - This implementation assumes working custom modules for Sobel, LoG, and Hough circle detection.
 - Image resizing accelerates the computation without significantly affecting detection quality.
+
+---
+
+## License
+
+---
