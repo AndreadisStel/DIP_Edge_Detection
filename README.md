@@ -56,9 +56,12 @@ The script displays:
   - Grayscale input image
   - Sobel edge map
   - LoG edge map
-  - Final image with detected circles
+  - Final image with detected circles\
 Image saving functionality is present but commented out. Uncomment to export results.
 
+---
 
-
+## Report
+A full project report with results and analysis is available here (in Greek, but you can see different output for different parameters):
+[Open Project Report (PDF)](report.pdf)
 
